@@ -1,4 +1,4 @@
-#Atividade de HTML e CSS || Formulários - 14/05
+# Atividade de HTML e CSS || Formulários - 14/05
  Site criado como atividade de HTML/CSS do curso técnico em informática no 1° bimestre do ano de 2025.
  Objetivo: Compreender como funciona os formulários e como criar e configurar.
 
